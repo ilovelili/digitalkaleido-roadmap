@@ -45,3 +45,9 @@ Cryptocurrency support
 ## Development flow
 
 M1P1(Millestone1, Phase I) -> M2P1 & M1P2 (同时进行) -> M2P2 & M2P3(BTC support) -> M1P3 (BTC & China Crypto support)
+
+## References
+
+* [Behance](`https://www.behance.net/galleries`)
+* [Dribble](`https://dribbble.com/`)
+* [OpenBazzar](`https://openbazaar.org/`)
